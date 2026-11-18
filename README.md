@@ -9,7 +9,7 @@ I'm an independent, self-driven creator from Italy. I came into development thro
 
 Since then, I've been learning by building: scripting custom gameplay systems, designing environments, mapping spaces, shaping visual identities and turning ideas into playable experiences.
 
-I work across development and creative direction because I enjoy seeing a project as a whole — not just the code, but the world that code makes possible.
+I work across development and creative direction because I enjoy seeing a project as a whole, not just the code, but the world that code makes possible.
 
 ---
 
@@ -20,7 +20,7 @@ I work across development and creative direction because I enjoy seeing a projec
 
 A dystopian story set in 2071, where people can be erased without being killed.
 
-At the centre is Ryu Seon-gi, a former government archivist who helped erase other people's identities — until he discovers his own name on a deletion list. Inside Kyon-Zhi, an underground prison built around human exploitation, he must survive, confront his past and reconstruct a register of people the world has chosen to forget.
+At the centre is Ryu Seon-gi, a former government archivist who helped erase other people's identities, until he discovers his own name on a deletion list. Inside Kyon-Zhi, an underground prison built around human exploitation, he must survive, confront his past and reconstruct a register of people the world has chosen to forget.
 
 I'm developing the project's world, narrative foundations, gameplay direction and visual identity.
 
