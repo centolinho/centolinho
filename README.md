@@ -66,7 +66,7 @@ I have a particular appreciation for gritty environments, strong atmosphere and 
 
 I'm still learning. I'm still experimenting. Some things will work; others will need to be rebuilt.
 
-This profile is a record of that process — the projects I'm making, the skills I'm developing and the ideas I'm determined to bring to life.
+This profile is a record of that process, the projects I'm making, the skills I'm developing and the ideas I'm determined to bring to life.
 
 **Built independently. Driven by curiosity. Always in progress.**
 
