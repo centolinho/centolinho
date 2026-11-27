@@ -1,6 +1,20 @@
+<div align="center">
+
 # CENTOLINHO
 
-### Founder · Game & Software Developer · Project Manager
+**Founder · Game & Software Developer · Project Manager**
+
+*Building Software. Leading Teams. Creating Worlds.*
+
+[![1717 Interactive](https://img.shields.io/badge/1717_Interactive-Founder_%26_CEO-B5121B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1717-Interactive)
+[![Zanop Technologies](https://img.shields.io/badge/Zanop_Technologies-Project_Manager-233B53?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zanop-Technologies)
+[![Based in Italy](https://img.shields.io/badge/Based_in-Italy-484846?style=for-the-badge)](https://github.com/centolinho)
+
+[![GitHub followers](https://img.shields.io/github/followers/centolinho?style=flat-square&label=Followers&color=B5121B)](https://github.com/centolinho?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/centolinho?affiliations=OWNER&style=flat-square&label=Stars&color=DAA520)](https://github.com/centolinho?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=centolinho&style=flat-square&color=484846&label=Profile+views)](https://github.com/centolinho)
+
+</div>
 
 **Italy | Independent Development & Creative Technology**
 
@@ -11,6 +25,51 @@ I'm an independent developer, creative director and project manager from Italy, 
 My journey began within roleplay communities, where I developed an interest in the systems, environments and stories that make virtual worlds feel alive. What started as experimentation with scripting and mapping gradually evolved into a broader interest in software development, simulation systems, game design and project leadership.
 
 Today, I work across technical development, creative direction and project management, combining independent projects with international open-source collaboration.
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://trophy.ryglcloud.net/?username=centolinho&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+*These are dynamically calculated community trophy cards, not official GitHub Achievements. The third-party image provider may occasionally be unavailable.*
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-101012?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" alt="GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=centolinho&show_icons=true&hide_border=true&bg_color=101012&title_color=F1E6CD&text_color=D8D3C9&icon_color=B5121B&include_all_commits=true" />
+<img height="165" alt="Most-used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=centolinho&layout=compact&hide_border=true&bg_color=101012&title_color=F1E6CD&text_color=D8D3C9&langs_count=7" />
+
+</div>
+
+*External widgets reflect publicly available GitHub data and may omit private contributions or hit provider rate limits.*
 
 ---
 
