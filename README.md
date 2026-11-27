@@ -26,20 +26,6 @@ My journey began within roleplay communities, where I developed an interest in t
 
 Today, I work across technical development, creative direction and project management, combining independent projects with international open-source collaboration.
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://trophy.ryglcloud.net/?username=centolinho&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-*These are dynamically calculated community trophy cards, not official GitHub Achievements. The third-party image provider may occasionally be unavailable.*
-
----
-
 ## Technology Stack
 
 <div align="center">
